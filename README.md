@@ -1,3 +1,3 @@
 # Letho_RPG
-Text based role playing game
+Text based role playing game ||
 Assignment from an Outscal Masterclass
